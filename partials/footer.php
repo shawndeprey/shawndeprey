@@ -1,4 +1,5 @@
-      <!--<footer>
+      <footer style="height:100px;">
+        <!--
         <div class="row">
           <div class="col-sm-6">
             <h4>Follow Me</h4>
@@ -19,7 +20,8 @@
             <p class="text-muted"><a href="mailto:shawndeprey@gmail.com">shawndeprey@gmail.com</a></p>
           </div>
         </div>
-      </footer>-->
+        -->
+      </footer>
     </div>
   </body>
 </html>

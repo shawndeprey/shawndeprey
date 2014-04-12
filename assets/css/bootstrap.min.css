@@ -15,3 +15,9 @@ body.v1 div.career_item p, body.v1 div.career_item ul {
   font-size: 16px;
   margin-top: 23px;
 }
+body.v1 div.image_gallery img {
+  width: 100%;
+}
+body.v1 div.image_gallery div.col-sm-2 {
+  margin-bottom: 15px;
+}

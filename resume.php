@@ -3,6 +3,21 @@
 
 <div class="row career_item">
   <div class="col-sm-4">
+    <h3>Portfolio</h3>
+  </div>
+  <div class="col-sm-8">
+    <p><a href="/portfolio.php">
+      <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-briefcase"></span> View My Portfolio
+      </button>
+    </a></p>
+  </div>
+</div>
+
+<hr>
+
+<div class="row career_item">
+  <div class="col-sm-4">
     <h3>Career Focus</h3>
   </div>
   <div class="col-sm-8">
@@ -158,17 +173,6 @@
 <div class="row career_item">
   <div class="col-sm-8 col-sm-offset-4">
     <p>
-      <strong><a href="http://www.cplusplus.com/" target="_BLANK">C++</a></strong><br>
-      <strong style="opacity:0.9;">Intermediate with 2 years of experience.</strong><br>
-      <span style="opacity:0.75;">Last used: 2012</span><br>
-      Experience in Console Application & Game Development, including openGL
-    </p>
-  </div>
-</div>
-
-<div class="row career_item">
-  <div class="col-sm-8 col-sm-offset-4">
-    <p>
       <strong><a href="http://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_BLANK">C#</a></strong><br>
       <strong style="opacity:0.9;">Beginner with 1 year of experience.</strong><br>
       <span style="opacity:0.75;">Last used: Preset</span><br>
@@ -187,4 +191,28 @@
   </div>
 </div>
 
+<div class="row career_item">
+  <div class="col-sm-4">
+    <h3>Education</h3>
+  </div>
+  <div class="col-sm-8">
+    <p>
+      <strong><a href="https://umaine.edu/" target="_BLANK">University of Maine</a></strong><br>
+      <strong style="opacity:0.9;">Bachelors of Science, Major: Computer Applications, Minor: Website Development</strong><br>
+      <span style="opacity:0.75;">Sep 2008 - May 2012 | Fort Kent, Maine</span><br>
+      <strong style="opacity:0.9;">Graduating GPA: 3.9   Deans List: All 4 years</strong><br>
+    </p>
+  </div>
+</div>
+
+<div class="row career_item">
+  <div class="col-sm-8 col-sm-offset-4">
+    <p>
+      <strong><a href="http://sjvtc.mainecte.org/" target="_BLANK">Saint John Valley Technology Center</a></strong><br>
+      <strong style="opacity:0.9;">Certificate of Completion</strong><br>
+      <span style="opacity:0.75;">Sep 2006 - June 2008 | Saint John Valley, Maine</span><br>
+      Studied the basics of binary computer logic, circuit boards and computer hardware.
+    </p>
+  </div>
+</div>
 <?php render('partials/footer.php'); ?>
