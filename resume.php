@@ -32,14 +32,14 @@
     <h3>Core Strengths</h3>
   </div>
   <div class="col-sm-8">
-    <ul>
-      <li>System Design</li>
-      <li>Programming</li>
-      <li>API Design & Development</li>
-      <li>Databases</li>
-      <li>Rails</li>
-      <li>Front-End Development</li>
-    </ul>
+    <p class="span_list">
+      <span class="label label-info">System Design</span>
+      <span class="label label-info">Programming</span>
+      <span class="label label-info">API Design & Development</span>
+      <span class="label label-info">Databases</span>
+      <span class="label label-info">Ruby on Rails</span>
+      <span class="label label-info">Front-End Development</span>
+    </p>
   </div>
 </div>
 
