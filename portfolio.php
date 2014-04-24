@@ -3,6 +3,21 @@
 
 <div class="row career_item">
   <div class="col-sm-4">
+    <h3>Resume</h3>
+  </div>
+  <div class="col-sm-8">
+    <p><a href="/resume.php">
+      <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-file"></span> View My Resume
+      </button>
+    </a></p>
+  </div>
+</div>
+
+<hr>
+
+<div class="row career_item">
+  <div class="col-sm-4">
     <h3>KITE</h3>
   </div>
   <div class="col-sm-8">

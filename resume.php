@@ -21,7 +21,7 @@
     <h3>Career Focus</h3>
   </div>
   <div class="col-sm-8">
-    <p>Engineering for the Web. Game development as a hobby.</p>
+    <p>Engineering for the web. Game development as a hobby.</p>
   </div>
 </div>
 
@@ -38,6 +38,7 @@
       <span class="label label-info">API Design & Development</span>
       <span class="label label-info">Databases</span>
       <span class="label label-info">Ruby on Rails</span>
+      <span class="label label-info">Back-End Development</span>
       <span class="label label-info">Front-End Development</span>
     </p>
   </div>
@@ -212,6 +213,19 @@
       <strong style="opacity:0.9;">Certificate of Completion</strong><br>
       <span style="opacity:0.75;">Sep 2006 - June 2008 | Saint John Valley, Maine</span><br>
       Studied the basics of binary computer logic, circuit boards and computer hardware.
+    </p>
+  </div>
+</div>
+
+<div class="row career_item">
+  <div class="col-sm-4">
+    <h3>Awards</h3>
+  </div>
+  <div class="col-sm-8">
+    <p>
+      <strong><a href="http://www.umfk.edu/valleyvision/release/default.cfm?release=12062" target="_BLANK">Haenssler Award</a></strong><br>
+      <strong style="opacity:0.9;">In memory of the scholarship, courage and devotion of Robert Jacob Haenssler '82.</strong><br>
+      <span style="opacity:0.75;">The University of Maine at Fort Kent designates Shawn Michael Deprey 2012 Haenssler Prize.</span><br>
     </p>
   </div>
 </div>
