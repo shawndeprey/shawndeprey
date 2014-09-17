@@ -15,13 +15,11 @@
             <span class="glyphicon glyphicon-briefcase"></span> View My Portfolio
           </button>
         </a>
-        <a href="http://shawndeprey.blogspot.com/" style="text-decoration: none;" target="_BLANK">
-          <button type="button" class="btn btn-default btn-lg">
-            <span class="glyphicon glyphicon-th-list"></span> View My Blog
-          </button>
-        </a>
       </center>
     </p>
+    <center>
+      <script async src="https://static.medium.com/embed.js"></script><a class="m-profile" href="https://medium.com/@mrdeprey">Shawn Deprey</a>
+    </center>
   </div>
 </div>
 
