@@ -51,7 +51,7 @@
     <p>Architect, Engineer and Product Designer</p>
   </div>
   <div class="col-sm-5">
-    <p style="margin-top: 17px;">Seattle, WA, United States</p>
+    <p style="margin-top: 17px;">Denver, CO, United States</p>
     <p><a href="mailto:shawndeprey@gmail.com">shawndeprey@gmail.com</a> | <a href="tel:12065355975">(206) 535-5975</a></p>
   </div>
 </div>
