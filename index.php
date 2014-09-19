@@ -15,6 +15,11 @@
             <span class="glyphicon glyphicon-briefcase"></span> View My Portfolio
           </button>
         </a>
+        <a href="https://twitter.com/mrdeprey" style="text-decoration: none;" target="_BLANK">
+          <button type="button" class="btn btn-default btn-lg">
+            <span class="glyphicon glyphicon-globe"></span> View My Twitter
+          </button>
+        </a>
       </center>
     </p>
     <center>

@@ -33,13 +33,15 @@
   </div>
   <div class="col-sm-8">
     <p class="span_list">
-      <span class="label label-info">System Design</span>
+      <span class="label label-info">System Architecture & Design</span>
       <span class="label label-info">Programming</span>
-      <span class="label label-info">API Design & Development</span>
+      <span class="label label-info">API</span>
+      <span class="label label-info">MVC</span>
       <span class="label label-info">Databases</span>
       <span class="label label-info">Ruby on Rails</span>
       <span class="label label-info">Back-End Development</span>
       <span class="label label-info">Front-End Development</span>
+      <span class="label label-info">Project Management</span>
     </p>
   </div>
 </div>
@@ -123,7 +125,7 @@
   <div class="col-sm-8">
     <p>
       <strong><a href="https://www.ruby-lang.org/en/" target="_BLANK">Ruby</a></strong><br>
-      <strong style="opacity:0.9;">Proficient with 3 years of experience.</strong><br>
+      <strong style="opacity:0.9;">Excels with 3 years of experience.</strong><br>
       <span style="opacity:0.75;">Last used: Present with Ruby on Rails & Sinatra</span><br>
     </p>
   </div>
@@ -133,7 +135,7 @@
   <div class="col-sm-8 col-sm-offset-4">
     <p>
       <strong><a href="#">HTML, CSS, Javascript</a></strong><br>
-      <strong style="opacity:0.9;">Proficient with 7 years of experience.</strong><br>
+      <strong style="opacity:0.9;">Excels with 8 years of experience.</strong><br>
       <span style="opacity:0.75;">Last used: Present</span><br>
     </p>
   </div>
