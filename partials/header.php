@@ -43,7 +43,7 @@
 
 <div class="row jumbo">
   <div class="col-sm-2">
-    <img src="http://i98.photobucket.com/albums/l280/MH_Strife/shawn-eec2730e7fd4059d88fcc383931b2e9b.png" alt="Shawn Deprey" width="75%" />
+    <img src="http://i98.photobucket.com/albums/l280/MH_Strife/shawn-headshot.jpg" alt="Shawn Deprey" width="75%" />
   </div>
   <div class="col-sm-5">
     <!-- <div style="margin: 35px 0px 35px 0px;"></div>-->
